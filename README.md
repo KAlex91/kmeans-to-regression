@@ -1,4 +1,4 @@
-# kmeans-to-regression
+# Kmeans to Regression - Advanced Regression Techniques
 Notebook for "House Prices - Advanced Regression Techniques" Kaggle's competition
 
 Competition Description
