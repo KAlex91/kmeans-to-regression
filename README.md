@@ -11,3 +11,5 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 All the data used can be found on the competition's page.
 
 In this notebook I used dimension reduction using kmeans clustering , which is an unsupervised learning algorithm. Instead of feature selection or feature engineering, I have reduced the dimension by grouping or clustering most of the similar features together and they are categorized or labeled accordingly, making the preprocessing a lot more sharper.
+
+I have also added a file with the description of the data.
